@@ -1,0 +1,25 @@
+Square Area 
+Length = 5.000000 
+Area of Square = 25.00
+
+Paralellogram Area 
+Base = 5.000000 
+High = 3.000000 
+Area of Paralellogram = 15.00
+
+Rhombus Area 
+Diagonal = 8.000000, 9.000000 
+Area of Rhombus = 36.00
+
+Rhombus Area 
+Diagonal = 70.000000, 5.000000 
+Area of Rhombus = 175.00
+
+Rhombus Area 
+Diagonal = 789.000000, 456.000000 
+Area of Rhombus = 179892.00
+
+Rhombus Area 
+Diagonal = 45.000000, 13.000000 
+Area of Rhombus = 292.50
+
